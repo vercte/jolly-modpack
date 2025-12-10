@@ -1,0 +1,13 @@
+name = "The Jolly Season"
+author = "Vercte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c63aa9d692c5941a9c08a857b3fcc061c8bd46e16e72f62c2c8892cf0e4a575d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"
