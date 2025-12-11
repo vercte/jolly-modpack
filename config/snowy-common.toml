@@ -1,0 +1,20 @@
+#Snowy config
+[general]
+	#Enable non-overworld biomes
+	enable_non_overworld_biomes = false
+	#Force disabled biomes
+	force_disabled_biomes = [
+		"yungscavebiomes:lost_caves",
+		"minecraft:river", "minecraft:beach",
+		"minecraft:frozen_ocean", "minecraft:deep_frozen_ocean",
+		"minecraft:cold_ocean", "minecraft:deep_cold_ocean",
+		"minecraft:ocean", "minecraft:deep_ocean",
+		"minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean",
+		"minecraft:warm_ocean"
+	]
+	#Force enabled biomes
+	force_enabled_biomes = []
+	#Enable temperature noise
+	enable_temperature_noise = false
+	#Enable constant snow
+	enable_constant_snow = false

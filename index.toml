@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "c68ae499f7056b03d1321289edd8850d37f29ea57651bd6e9af05a4ae833f12a"
+hash = "0bc8ecf3ec129589d05d7344db1f82cab87d9e6c39bb02d528c3488a6be35163"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -17,12 +17,28 @@ file = "config/snowrealmagic-common.yaml"
 hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
 
 [[files]]
+file = "config/snowy-common.toml"
+hash = "0781e30541fd55e488f372e3f85e9624bf7b37f936d9a6ee07860978d3169789"
+
+[[files]]
 file = "config/yosbr/config/raised.json"
 hash = "a9da30c35786aad75c9a7e063479974e6a260b5ef80a79653691ac5cd8523ddd"
 
 [[files]]
 file = "config/yosbr/config/snowrealmagic-client.yaml"
 hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = "datapacks/biome_tweaks/data/minecraft/biome/plains.json"
+hash = "d30a5b8e57c7b009d7f7ade2f55e429e61dda28c50c4ce095d6f7aa7804bc1b0"
+
+[[files]]
+file = "datapacks/biome_tweaks/pack.mcmeta"
+hash = "c2a30294c8e87ca241775d322a1c30f6f73256a6057c9f3848f318ec0293a163"
+
+[[files]]
+file = "datapacks/no-yungs-advancements/pack.mcmeta"
+hash = "cf645c4a9b468b8e3242c86de9f7d41d870307855163854e345a6ee678ecae15"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -32,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
 metafile = true
 
 [[files]]
@@ -50,6 +71,11 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
@@ -62,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "4d27596894102cbf06785a37e659fcd19175537966224801a0b0d98aa78d9546"
 metafile = true
 
 [[files]]
@@ -110,6 +141,11 @@ hash = "82aedef3c457ffe51e27a4153aaf73ef7c073b87059a021495af487e41ed2e99"
 metafile = true
 
 [[files]]
+file = "mods/snowy.pw.toml"
+hash = "5199741f12a089a4b1dbb74dd0d4426f2ca0d817be7fcdc38d40d547a0d3d492"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
@@ -117,6 +153,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2632cdb92a41c1c8fe4eb6d4a76deb9febb62c9e62cb9d91ad9794e42829f7c8"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
@@ -140,9 +186,21 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "notdatapacks/jolly_remove_biomes/data/minecraft/worldgen/world_preset/normal.json"
-hash = "8b44616a6e1600edb733ef366a34b55ca94c1d69c06d83bc6f9555405a576244"
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
+metafile = true
 
 [[files]]
-file = "notdatapacks/jolly_remove_biomes/pack.mcmeta"
-hash = "c2a30294c8e87ca241775d322a1c30f6f73256a6057c9f3848f318ec0293a163"
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
+metafile = true
