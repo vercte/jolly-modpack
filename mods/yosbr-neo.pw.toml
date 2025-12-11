@@ -1,0 +1,15 @@
+name = "yosbr-neo"
+filename = "yosbr-neo-0.1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vercte/yosbr-neo/releases/download/0.1.2.0/yosbr-neo-0.1.2.0.jar"
+hash-format = "sha256"
+hash = "7c607cbbeadeca6e2d8b4a0ce7845c15492dcb84d1e5818ca832639b58cae002"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "vercte/yosbr-neo"
+tag = "0.1.2.0"

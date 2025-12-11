@@ -13,16 +13,16 @@ file = "config/kiwi-common.yaml"
 hash = "48bca49edf4ee6b363fe56139eec197f36399fb87e73b71443959bdb8598a955"
 
 [[files]]
-file = "config/snowrealmagic-client.yaml"
-hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
-
-[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
 
 [[files]]
-file = "datapacks/jolly_remove_biomes/pack.mcmeta"
-hash = "218553daec530831d97520c179bf64105c24cd7698601bbbf38f7cf02b5c2e2c"
+file = "config/yosbr/config/raised.json"
+hash = "a9da30c35786aad75c9a7e063479974e6a260b5ef80a79653691ac5cd8523ddd"
+
+[[files]]
+file = "config/yosbr/config/snowrealmagic-client.yaml"
+hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -42,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
@@ -75,8 +80,18 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 hash = "884325ab8ea09fc82883a3e27c340c3e978c167420977e89166061b31338a490"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "e8edb694786e8dfc2dddc6809535781e28cffc862fb6dc450da933709e5ee41e"
 metafile = true
 
 [[files]]
@@ -105,11 +120,29 @@ hash = "2632cdb92a41c1c8fe4eb6d4a76deb9febb62c9e62cb9d91ad9794e42829f7c8"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "253d02e33da60a75621cd221c38dde0b6aac3f9965f780dd52094fc1c39eed67"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "notdatapacks/jolly_remove_biomes/data/minecraft/worldgen/world_preset/normal.json"
+hash = "8b44616a6e1600edb733ef366a34b55ca94c1d69c06d83bc6f9555405a576244"
+
+[[files]]
+file = "notdatapacks/jolly_remove_biomes/pack.mcmeta"
+hash = "c2a30294c8e87ca241775d322a1c30f6f73256a6057c9f3848f318ec0293a163"
