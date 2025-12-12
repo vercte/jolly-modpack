@@ -45,6 +45,16 @@ file = "datapacks/no-yungs-advancements/pack.mcmeta"
 hash = "cf645c4a9b468b8e3242c86de9f7d41d870307855163854e345a6ee678ecae15"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
@@ -110,6 +120,11 @@ hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -137,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "ea7648d3720731b1ac316a54bfee8fdf07778108f0fd1cdf62e8aba7bb3cf978"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "d9b81ab8f53b87951b83cf02820692cbd6aba055d69c363ef2a5ac763e108a30"
 metafile = true
 
 [[files]]
@@ -220,6 +240,11 @@ hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
 metafile = true
@@ -277,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2632cdb92a41c1c8fe4eb6d4a76deb9febb62c9e62cb9d91ad9794e42829f7c8"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
 metafile = true
 
 [[files]]
