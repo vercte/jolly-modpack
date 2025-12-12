@@ -13,6 +13,10 @@ file = "config/kiwi-common.yaml"
 hash = "48bca49edf4ee6b363fe56139eec197f36399fb87e73b71443959bdb8598a955"
 
 [[files]]
+file = "config/moonlight-common.toml"
+hash = "fbce75f9cd9258e0726a2ee1aed8f156bdc7ba04902a7434fa6292be954b1082"
+
+[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
 
@@ -46,8 +50,18 @@ hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+metafile = true
+
+[[files]]
+file = "mods/beans-backpacks-3.pw.toml"
+hash = "a9769b168381a11a916f2faca33a4a4c6bef21e3fc3f637a8091122e64d3a4d3"
 metafile = true
 
 [[files]]
@@ -61,13 +75,53 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "6bb119edbf8141abafaea3a69027942547de739bd69b2107a6b9d2e7dc6e2ce7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
+metafile = true
+
+[[files]]
+file = "mods/fog.pw.toml"
+hash = "ce8b4c6596fac67fd0d8ba6193a4a868699d9447c7eefb5a830ec23d211a04e6"
 metafile = true
 
 [[files]]
@@ -98,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
@@ -166,8 +230,23 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
 metafile = true
 
 [[files]]
