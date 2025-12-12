@@ -26,7 +26,7 @@ hash = "0781e30541fd55e488f372e3f85e9624bf7b37f936d9a6ee07860978d3169789"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
-hash = "a9da30c35786aad75c9a7e063479974e6a260b5ef80a79653691ac5cd8523ddd"
+hash = "f96c863eaebc786d49d0ca42f929710d2f7964bfc6ffc8323e491b2d6b59be30"
 
 [[files]]
 file = "config/yosbr/config/snowrealmagic-client.yaml"
@@ -50,6 +50,11 @@ hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
@@ -105,6 +115,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "77d59ac7bb40c00032d68d45d777e8c1c0dc22596afe0c84572104a67dabb1d5"
+metafile = true
+
+[[files]]
 file = "mods/extended-wrenches.pw.toml"
 hash = "6bb119edbf8141abafaea3a69027942547de739bd69b2107a6b9d2e7dc6e2ce7"
 metafile = true
@@ -115,8 +130,18 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "ea7648d3720731b1ac316a54bfee8fdf07778108f0fd1cdf62e8aba7bb3cf978"
+metafile = true
+
+[[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
 
 [[files]]
@@ -135,8 +160,28 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "caa948011054593b7452cfc4fa7276ff61748770285fd6b7ee5078816eed043b"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "d2bf416d3ee62862987d5243005b8baa3f214139e2563b23b163e93e26e6e172"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
@@ -162,6 +207,16 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
@@ -191,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "c584c4fa729c9025b384e14716a4c5ec994ef332b85492f57a4e41a315c45c4e"
+hash = "748402afa804b7e3da2208009a0caa4c9dea415a098776fdfaba00148d2e6d5f"
 metafile = true
 
 [[files]]
