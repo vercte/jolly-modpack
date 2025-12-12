@@ -190,6 +190,11 @@ hash = "e8edb694786e8dfc2dddc6809535781e28cffc862fb6dc450da933709e5ee41e"
 metafile = true
 
 [[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "c584c4fa729c9025b384e14716a4c5ec994ef332b85492f57a4e41a315c45c4e"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "a1deef8071fb83a13df63c289576813b82f0687eebda9b48b7667620d5d45103"
 metafile = true
