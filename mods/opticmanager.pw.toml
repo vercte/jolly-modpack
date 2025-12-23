@@ -1,0 +1,13 @@
+name = "OpticManager"
+filename = "OpticManager_NEOFORGE_v1.3.3_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JA3QLYOA/versions/rPkmO6Uy/OpticManager_NEOFORGE_v1.3.3_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "fad427c0f59aae147f16931fd7284295ff20d2a10bf2ed823a2f156cd9ce52f6badc8fa379dc85ff1e6dd4946ac7b8170b87d36ec4cfed049b3dcb229fa04bc0"
+
+[update]
+[update.modrinth]
+mod-id = "JA3QLYOA"
+version = "rPkmO6Uy"

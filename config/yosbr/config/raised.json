@@ -408,6 +408,17 @@
       "sync": "yungscavebiomes:buffeted"
     }
   },
+  "satchels:satchel_hotbar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "UP"
+      },
+      "sync": "minecraft:hotbar"
+    },
   "resource": {
     "texture": "PATCH"
   }

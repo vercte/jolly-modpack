@@ -5,7 +5,7 @@
 	#Force disabled biomes
 	force_disabled_biomes = [
 		"yungscavebiomes:lost_caves",
-		"minecraft:river", "minecraft:beach",
+		"minecraft:river",
 		"minecraft:frozen_ocean", "minecraft:deep_frozen_ocean",
 		"minecraft:cold_ocean", "minecraft:deep_cold_ocean",
 		"minecraft:ocean", "minecraft:deep_ocean",

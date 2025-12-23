@@ -1,0 +1,15 @@
+name = "satchels"
+filename = "satchels-neoforge-1.0.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vercte/satchels/releases/download/1.0.0-beta/satchels-neoforge-1.0.0-beta.jar"
+hash-format = "sha256"
+hash = "ec126ec7248a938abc6a4255f27160c4557c74edbc49207d6ae971bfa444f114"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "vercte/satchels"
+tag = "1.0.0-beta"
