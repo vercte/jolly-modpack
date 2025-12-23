@@ -1,12 +1,12 @@
 name = "The Jolly Season"
 author = "Vercte"
-version = "1.3.0"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "601e005b1f6764ab4235579e3e6938cd5b22568d6e7e1b683a3f394ea992fd05"
+hash = "142ae5181bef64366ac920831fb02370d8ab97fb584eb9cdc057faf8eeacbd75"
 
 [versions]
 minecraft = "1.21.1"

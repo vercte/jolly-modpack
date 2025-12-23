@@ -5,6 +5,10 @@ file = "config/biome_replacer.properties"
 hash = "0bc8ecf3ec129589d05d7344db1f82cab87d9e6c39bb02d528c3488a6be35163"
 
 [[files]]
+file = "config/bridgingmod.json"
+hash = "8a270a285af132b0ac31e8b9a60a43f659fd48cb90d9fb6fa54a1ae6e20c0fd5"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "9617b1f0d9a5bcef2e3d23397814bed0e7d29e19de75374b2177502f1f3a2446"
 
@@ -34,7 +38,7 @@ hash = "5b297f30ddde7d07d490a8f8aa80bfb8bfa9d616455b8b33a8658e58a37ed0ce"
 
 [[files]]
 file = "config/snowrealmagic-common.yaml"
-hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
+hash = "e87604d500f557c4cfebc3e29e0419b299b14af4cdaf1659f6dc81ab136bb1c3"
 
 [[files]]
 file = "config/snowy-common.toml"
@@ -92,6 +96,16 @@ hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
+file = "mods/carved-wood.pw.toml"
+hash = "b9a0507facfb51fcda94a7d9cfff8c43a590393d87edf5d8ecb541bce36977b5"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -117,6 +131,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "c0210ae315fb7c8ddc5264af382afb2a456621609f03e91d160e25a9bd5e340b"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
 metafile = true
@@ -129,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "9f3bd10fad13a1024513590b53976f0c7c9eb404727b3d08fe87ebbf451bcd04"
 metafile = true
 
 [[files]]
@@ -178,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "ea7648d3720731b1ac316a54bfee8fdf07778108f0fd1cdf62e8aba7bb3cf978"
+hash = "19c09828ce6d394ec1d9906b1a6ff02998052274024182e83027c6e8eee9eb04"
 metafile = true
 
 [[files]]
@@ -193,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "ce8b4c6596fac67fd0d8ba6193a4a868699d9447c7eefb5a830ec23d211a04e6"
+hash = "3a90f022d0ac776053cfb3a74de2f5df7b1a1388c1fb223ea7396a052843989f"
 metafile = true
 
 [[files]]
@@ -208,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "a8c6a45895b59f2a00c108a5247de7eb15083a0bd835ed10c850ca22f81504ba"
+hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
 
 [[files]]
@@ -287,6 +311,11 @@ hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
 metafile = true
 
 [[files]]
+file = "mods/pause-day-cycle.pw.toml"
+hash = "a8bb27c7a03233f164d48537fffc20160c7166c7fba72e79780a36ca40356549"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
@@ -354,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "2bf69f5f3a595f2ccf183c1897da887a28313a36b2bd5e8bf651c48bf1f0b4d8"
 metafile = true
 
 [[files]]
