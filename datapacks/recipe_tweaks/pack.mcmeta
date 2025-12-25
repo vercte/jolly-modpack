@@ -1,0 +1,26 @@
+{
+    "pack": {
+        "description": "Built-in to this modpack. It... tweaks recipes...",
+        "pack_format": 48
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "recipe/chain"
+            },
+            {
+                "namespace": "farmersdelight",
+                "path": "recipe/fried_egg.*"
+            },
+            {
+                "namespace": "create",
+                "path": "recipe/.*_stairs"
+            },
+            {
+                "namespace": "create",
+                "path": "recipe/.*_slab"
+            }
+        ]
+    }
+}

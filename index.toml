@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog/1.4.0.md"
+hash = "241623c2b86c060969033258b0ed606c0e20146fc719159901a2dd6e59446d62"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "0bc8ecf3ec129589d05d7344db1f82cab87d9e6c39bb02d528c3488a6be35163"
 
@@ -59,6 +63,26 @@ hash = "c2a30294c8e87ca241775d322a1c30f6f73256a6057c9f3848f318ec0293a163"
 [[files]]
 file = "datapacks/no-yungs-advancements/pack.mcmeta"
 hash = "cf645c4a9b468b8e3242c86de9f7d41d870307855163854e345a6ee678ecae15"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/chain.json"
+hash = "bdcd4f6968ad90c05690727d5a4341a508039c022297ca30e9d8947b159eb54f"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/fried_egg.json"
+hash = "fca3f501121a86eb4e59905de187f51c6b3e5ad1e25fca3bed66ab82c85b1a83"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/fried_egg_from_campfire_cooking.json"
+hash = "7dd2634b23296383e3aaa9e0a0f1e9344f1cd93d71b5fefa6d7aedb48cf5089d"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/fried_egg_from_smoking.json"
+hash = "0a274c020ba6326c9784fb931fb3150233af77e7a79e9ae4bdd6297bcb2c4747"
+
+[[files]]
+file = "datapacks/recipe_tweaks/pack.mcmeta"
+hash = "50ae42b53f9fa94144823b0b77115bc7fc5810e26d1976e8bae2b5dc9fb1ee9a"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -248,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
+file = "mods/jolly-core.pw.toml"
+hash = "f61968eb25d0b51f118294252e529c6413fdc2794ae9ed3a27fb9e40d9e671ad"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+name = "jolly-core"
+filename = "jolly-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vercte/jolly-core/releases/download/1.0.1/jolly-1.0.1.jar"
+hash-format = "sha256"
+hash = "daf6ff45273c77816b6d2436fc45f8cc3bb2a1a79d842f301637461aecb95e0c"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "vercte/jolly-core"
+tag = "1.0.1"
