@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "cc",
+    "cc"
+  ],
+  "key": {
+    "c": {"item": "creategarnished:candy_cane"}
+  },
+  "result": {
+    "id": "snowyspirit:candy_cane_block"
+  }
+}

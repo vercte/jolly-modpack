@@ -1,0 +1,7 @@
+{
+  "removed": [
+    "item:snowyspirit:eggnog",
+    "item:snowyspirit:candy_cane"
+  ],
+  "disable": true
+}

@@ -20,6 +20,30 @@
             {
                 "namespace": "create",
                 "path": "recipe/.*_slab"
+            },
+            {
+                "namespace": "create",
+                "path": "recipe/crafting/appliances/chain_from_zinc"
+            },
+            {
+                "namespace": "snowyspirit",
+                "path": "recipe/gingerbread"
+            },
+            {
+                "namespace": "snowyspirit",
+                "path": "recipe/candy_cane"
+            },
+            {
+                "namespace": "snowyspirit",
+                "path": "recipe/eggnog"
+            },
+            {
+                "namespace": "creategarnished",
+                "path": "recipe/crafting/gingerbread_flour"
+            },
+            {
+                "namespace": "creategarnished",
+                "path": "recipe/mixing/sprinters_tea"
             }
         ]
     }

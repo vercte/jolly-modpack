@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "jolly_recipe_tweaks:ginger"
+    },
+    {
+      "tag": "jolly_recipe_tweaks:ginger"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 150,
+      "fluid": "minecraft:water"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "create:honey"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "creategarnished:sprinters_tea"
+    }
+  ]
+}

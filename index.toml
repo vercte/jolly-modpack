@@ -5,6 +5,14 @@ file = "changelog/1.4.0.md"
 hash = "241623c2b86c060969033258b0ed606c0e20146fc719159901a2dd6e59446d62"
 
 [[files]]
+file = "changelog/1.5.0.md"
+hash = "4bd4c3a436e0c43940022c8d974c690d4ba6d3e09f5edc7186f29587f9439e22"
+
+[[files]]
+file = "changelog/1.6.0.md"
+hash = "8bf9b743ef3c7457451885188cf9be7ecf933046fc3f26f50e8d0b504aa54e93"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "0bc8ecf3ec129589d05d7344db1f82cab87d9e6c39bb02d528c3488a6be35163"
 
@@ -31,6 +39,10 @@ hash = "fbce75f9cd9258e0726a2ee1aed8f156bdc7ba04902a7434fa6292be954b1082"
 [[files]]
 file = "config/opticmanager.json"
 hash = "399961f4ebc36bb1363d4289e1f0a6be0ce080329ecce51d10bf3c046bcd7921"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "8aa4aeee1d817f94a4a8ff1def08ed1fd42b089a5b68bf810f147bd6404069cb"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -65,8 +77,16 @@ file = "datapacks/no-yungs-advancements/pack.mcmeta"
 hash = "cf645c4a9b468b8e3242c86de9f7d41d870307855163854e345a6ee678ecae15"
 
 [[files]]
+file = "datapacks/recipe_tweaks/data/c/tags/item/foods/vegetable.json"
+hash = "c66b66511aff9ea90ecc0c8142f3c535245127dcaf2800c0ef50afd5e5dfaec1"
+
+[[files]]
 file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/chain.json"
 hash = "bdcd4f6968ad90c05690727d5a4341a508039c022297ca30e9d8947b159eb54f"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/chain_from_zinc.json"
+hash = "958573321a579bc2ada3134e850e70e71e675e6815484ddcb4c120ef5010305b"
 
 [[files]]
 file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/fried_egg.json"
@@ -81,8 +101,48 @@ file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/fried_egg_from_s
 hash = "0a274c020ba6326c9784fb931fb3150233af77e7a79e9ae4bdd6297bcb2c4747"
 
 [[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/candy_cane_block.json"
+hash = "991f5d9039be0c4da67f686ede3be77b0b4626a615c3a864ef6343f594e5c6f3"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/candy_cane_block_uncrafting.json"
+hash = "744ebb8b575f9fa09f7e916656541fa1422e54838210ece7a8b6073a4a010646"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_block_from_loaf.json"
+hash = "f1acd5a04345756d584020b91fb63fbed68ff03128ee85513faecb7b3f23b487"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_cookie.json"
+hash = "350f12701661bf6acfed848e2170191df58a15c6ac018955446198bc69f9bf20"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_door.json"
+hash = "51f2b25431a35232a67377f741e82b1082a2a658b0fbd6ba2b1cd3c21e91b0e8"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_flour.json"
+hash = "286b2f47b28e9ebe1b37c446331debaf2f4729926b9c60aa1a28ab278f4bde0c"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_frosted.json"
+hash = "3d9641ecb833da20e1095073ca1247b4b77bb7dc0ed9c39a355c934b8fc3ebfa"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/gingerbread_trapdoor.json"
+hash = "3bd5f86d17de521a4bc6105adb8657eaa200d9c1187c23b33a33bc40aa3ac755"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/recipe/ginger/sprinters_tea.json"
+hash = "e846cd89b6488277170d70572bdcf68b314f1750ac612e7d1db1a0a8844aa089"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/jolly_recipe_tweaks/tags/item/ginger.json"
+hash = "0ad3cda2cb785be612845595981358077348978ea147da8d7b613489a1702c83"
+
+[[files]]
 file = "datapacks/recipe_tweaks/pack.mcmeta"
-hash = "50ae42b53f9fa94144823b0b77115bc7fc5810e26d1976e8bae2b5dc9fb1ee9a"
+hash = "1dc99f87662df085c83fcaabc0021de17fc4d9ab5a040bcab78f90fe206aa554"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -177,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "9f3bd10fad13a1024513590b53976f0c7c9eb404727b3d08fe87ebbf451bcd04"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished-reworked.pw.toml"
+hash = "0b2e73e0148001691f24f38a47f473151072ff0d2e850127188c6888dc413fdf"
 metafile = true
 
 [[files]]
@@ -345,6 +410,11 @@ hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+metafile = true
+
+[[files]]
 file = "mods/pause-day-cycle.pw.toml"
 hash = "a8bb27c7a03233f164d48537fffc20160c7166c7fba72e79780a36ca40356549"
 metafile = true
@@ -483,3 +553,15 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
+
+[[files]]
+file = "resourcepacks/lang_tweaks/assets/emi/index/stacks/jolly_pack.json"
+hash = "499f44056fd7e106a91252172a8256a7afa3f14fff1ef06f231877c3d0e60205"
+
+[[files]]
+file = "resourcepacks/lang_tweaks/assets/snowyspirit/lang/en_us.json"
+hash = "1b31acbc69cba82c896b5fdb01142a408f5e71df652c83a5938dbbfe9af79cc8"
+
+[[files]]
+file = "resourcepacks/lang_tweaks/pack.mcmeta"
+hash = "c37f889fb063d8698612ed6a55441c00c0caa54a23be51e173e94a608ac55522"
